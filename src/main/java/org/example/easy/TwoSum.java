@@ -23,5 +23,4 @@ public class TwoSum {
         System.out.println("Indeks cutleri: [" + result[0] + " ," + result[1] + " ]");
 
     }
-
 }
